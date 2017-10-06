@@ -1,6 +1,6 @@
 # Image Classifier using tensorflow
 
-This is the code for 'Image Classifier in TensorFlow' by Rishab Sharma.
+This is the code for 'Image Classifier in TensorFlow' by Rishab Sharma (rishab-sharma).
 
 ## Requirements
 
